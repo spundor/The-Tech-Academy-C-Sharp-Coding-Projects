@@ -1,0 +1,166 @@
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\CarInsuranceAppMVC.dll.config
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\CarInsuranceAppMVC.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\CarInsuranceAppMVC.pdb
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\csc.exe
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\csc.exe.config
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\csc.rsp
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\csi.exe
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\csi.exe.config
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\csi.rsp
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\System.AppContext.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\System.Console.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\vbc.exe
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\vbc.exe.config
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\vbc.rsp
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\Antlr3.Runtime.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\Newtonsoft.Json.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\System.Web.Helpers.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\System.Web.Mvc.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\System.Web.Optimization.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\System.Web.Razor.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\System.Web.WebPages.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\WebGrease.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\System.Web.Helpers.xml
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\System.Web.Mvc.xml
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\System.Web.Optimization.xml
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\System.Web.Razor.xml
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\System.Web.WebPages.xml
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\Newtonsoft.Json.xml
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\Antlr3.Runtime.pdb
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\obj\Debug\CarInsuranceAppMVC.csprojAssemblyReference.cache
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\obj\Debug\CarInsuranceAppMVC.csproj.CopyComplete
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\obj\Debug\CarInsuranceAppMVC.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\obj\Debug\CarInsuranceAppMVC.pdb
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\EntityFramework.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\EntityFramework.xml
+C:\Users\scarb\Source\Repos\CarInsuranceAppMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\The-Tech-Academy-C-Sharp-Coding-Projects\CarInsuranceAppMVC\obj\Debug\CarInsuranceAppMVC.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\The-Tech-Academy-C-Sharp-Coding-Projects\CarInsuranceAppMVC\obj\Debug\CarInsuranceAppMVC.pdb
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\CarInsuranceAppMVC.dll.config
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\CarInsuranceAppMVC.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\CarInsuranceAppMVC.pdb
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\csc.exe
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\csc.exe.config
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\csc.rsp
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\csi.exe
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\csi.exe.config
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\csi.rsp
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\System.AppContext.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\System.Console.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\vbc.exe
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\vbc.exe.config
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\vbc.rsp
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\Antlr3.Runtime.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\EntityFramework.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\Newtonsoft.Json.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\System.Web.Helpers.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\System.Web.Mvc.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\System.Web.Optimization.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\System.Web.Razor.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\System.Web.WebPages.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\WebGrease.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\EntityFramework.xml
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\System.Web.Helpers.xml
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\System.Web.Mvc.xml
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\System.Web.Optimization.xml
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\System.Web.Razor.xml
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\System.Web.WebPages.xml
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\Newtonsoft.Json.xml
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\Antlr3.Runtime.pdb
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\obj\Debug\CarInsuranceAppMVC.csprojAssemblyReference.cache
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\obj\Debug\CarInsuranceAppMVC.csproj.CopyComplete
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\obj\Debug\CarInsuranceAppMVC.dll
+C:\Users\scarb\OneDrive\Desktop\The Tech Academy C-Sharp Coding Projects\CarInsuranceAppMVC\obj\Debug\CarInsuranceAppMVC.pdb
